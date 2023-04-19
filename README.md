@@ -32,4 +32,4 @@ N2 JLPT and 7.0 IELTS
     <img src="https://logotyp.us/files/mips.svg" alt="mysql" width="40" height="40"/>
 </p>
    
-"There is no better choice than the one you make with confidence in the present moment."
+"There is no better choice than the one you make in the present moment."
