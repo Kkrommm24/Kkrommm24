@@ -8,7 +8,8 @@ Facebook: https://www.facebook.com/HungChrom
 
 Instagram: https://www.instagram.com/24_kkkromm/ 
 
-GitHub: [https://github.com/chrom \n](https://github.com/Kkrommm24)
+GitHub: https://github.com/Kkrommm24
+
 Feel free to connect with me on any of these platforms!
 
 Experience
