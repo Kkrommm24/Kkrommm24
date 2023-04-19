@@ -4,9 +4,11 @@ I'm a student currently studying at [Hanoi University of Science and Technology]
 Social
 You can find me on the following platforms:
 
-Facebook: https://www.facebook.com/HungChrom \n
-Instagram: https://www.instagram.com/24_kkkromm/ \n
-GitHub: https://github.com/chrom \n
+Facebook: https://www.facebook.com/HungChrom 
+
+Instagram: https://www.instagram.com/24_kkkromm/ 
+
+GitHub: [https://github.com/chrom \n](https://github.com/Kkrommm24)
 Feel free to connect with me on any of these platforms!
 
 Experience
