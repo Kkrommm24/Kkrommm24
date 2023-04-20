@@ -4,7 +4,7 @@ I'm currently studying at [Hanoi University of Science and Technology](https://w
 
 N2 JLPT and 7.0 IELTS
 
-<s>Interested in Gaming and Weeboo stuff</s>
+Interested in AI and Big Data stuff
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">🌐 Socials</h3>
 <p align="left">
