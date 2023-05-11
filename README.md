@@ -2,7 +2,7 @@
 
 I'm currently studying at [Hanoi University of Science and Technology](https://www.facebook.com/dhbkhanoi/)
 
-N2 JLPT and 7.0 IELTS
+N2 JLPT/7.0 IELTS
 
 Interested in AI and Big Data stuff
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
