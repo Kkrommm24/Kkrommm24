@@ -4,7 +4,7 @@ I'm currently studying at [Hanoi University of Science and Technology](https://w
 
 N2 JLPT/7.0 IELTS
 
-Interested in AI and Big Data stuff
+Passionate about the ever-evolving fields of Artificial Intelligence (AI) and Big Data, I am particularly fascinated by how these technologies intersect to transform industries, solve complex problems, and drive innovation. My interests span various subdomains, including machine learning, natural language processing, and data visualization, as well as the challenges of managing, analyzing, and extracting insights from massive datasets.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">🌐 Socials</h3>
 <p align="left">
